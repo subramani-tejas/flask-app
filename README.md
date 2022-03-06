@@ -16,3 +16,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install Flask
 python -m flask --version
+
+# GIT repo
+
+https://github.com/asquare14/scaler-bootcamp-app
