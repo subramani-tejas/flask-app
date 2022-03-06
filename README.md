@@ -2,8 +2,10 @@
 
 A sample flask application following the Scaler Academy DevOps Bootcamp.
 
-Flask installation:
+# Flask installation:
+
 https://linuxize.com/post/how-to-install-flask-on-ubuntu-20-04/
+https://artsysops.com/2020/12/28/getting-started-with-flask-on-ubuntu-20-04/
 
 # VS Code (terminal):
 
